@@ -50,7 +50,7 @@
       # text editors i hate the least
       - atom
       - macvim
-      - mou
+      - sublime-text
       # virtual machines
       - vmware-fusion
       # other dev tools
@@ -62,6 +62,7 @@
       - daisydisk
       - dropbox
       - flux
+      - slack
       # non-dev stuff for general unproductivity
       - steam
       - transmission
