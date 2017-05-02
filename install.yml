@@ -63,6 +63,7 @@
       - dropbox
       - flux
       - slack
+      - sequel-pro
       # non-dev stuff for general unproductivity
       - steam
       - transmission
